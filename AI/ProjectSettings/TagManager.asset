@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Wall
   - Target
+  - GOOD_ITEM
+  - BAD_ITEM
+  - Fish
+  - BabyPenguin
   layers:
   - Default
   - TransparentFX
