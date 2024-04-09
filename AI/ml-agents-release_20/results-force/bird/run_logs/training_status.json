@@ -1,0 +1,38 @@
+{
+    "FlappyBird": {
+        "checkpoints": [
+            {
+                "steps": 499949,
+                "file_path": "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird\\FlappyBird-499949.onnx",
+                "reward": 11.942691500943441,
+                "creation_time": 1712561667.852274,
+                "auxillary_file_paths": [
+                    "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird\\FlappyBird-499949.pt"
+                ]
+            },
+            {
+                "steps": 702510,
+                "file_path": "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird\\FlappyBird-702510.onnx",
+                "reward": 16.163076008741672,
+                "creation_time": 1712561919.849637,
+                "auxillary_file_paths": [
+                    "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird\\FlappyBird-702510.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 702510,
+            "file_path": "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird.onnx",
+            "reward": 16.163076008741672,
+            "creation_time": 1712561919.849637,
+            "auxillary_file_paths": [
+                "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results-force\\bird\\FlappyBird\\FlappyBird-702510.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
