@@ -1,5 +1,5 @@
 behaviors:
-  VisualFoodCollector:
+  MummyCamera:
     trainer_type: ppo
     hyperparameters:
       batch_size: 1024
@@ -22,4 +22,4 @@ behaviors:
     keep_checkpoints: 5
     max_steps: 3000000
     time_horizon: 100
-    summary_freq: 40000
+    summary_freq: 20000

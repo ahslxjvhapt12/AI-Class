@@ -1,0 +1,29 @@
+{
+    "MummyCamera": {
+        "checkpoints": [
+            {
+                "steps": 45600,
+                "file_path": "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results--force\\MummyCamera\\MummyCamera\\MummyCamera-45600.onnx",
+                "reward": null,
+                "creation_time": 1713161957.1682477,
+                "auxillary_file_paths": [
+                    "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results--force\\MummyCamera\\MummyCamera\\MummyCamera-45600.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 45600,
+            "file_path": "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results--force\\MummyCamera\\MummyCamera.onnx",
+            "reward": null,
+            "creation_time": 1713161957.1682477,
+            "auxillary_file_paths": [
+                "D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results--force\\MummyCamera\\MummyCamera\\MummyCamera-45600.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

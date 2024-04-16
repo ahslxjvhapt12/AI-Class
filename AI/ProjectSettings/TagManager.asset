@@ -12,6 +12,11 @@ TagManager:
   - BabyPenguin
   - Obstacle
   - Scoring
+  - Hint
+  - Black
+  - Red
+  - Green
+  - Blue
   layers:
   - Default
   - TransparentFX
