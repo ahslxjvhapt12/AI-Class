@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1710743599",
+        "python_version": "3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\mlagents-learn D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\config\\ppo\\FoodCollector.yaml --run-id=Ray0001 --results-dir=D:\\GitHub\\AI-Class\\AI\\ml-agents-release_20\\results--force",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1710743605"
+    },
+    "total": 5.978735,
+    "count": 1,
+    "self": 0.006484900000001126,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0767044,
+            "count": 1,
+            "self": 0.0767044
+        },
+        "TrainerController.start_learning": {
+            "total": 5.8955457,
+            "count": 1,
+            "self": 0.0001250999999999891,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 5.8953979,
+                    "count": 1,
+                    "self": 5.8953979
+                },
+                "TrainerController._save_models": {
+                    "total": 2.2699999999709064e-05,
+                    "count": 1,
+                    "self": 2.2699999999709064e-05
+                }
+            }
+        }
+    }
+}
