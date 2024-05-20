@@ -12,7 +12,7 @@ public class Spawner : MonoBehaviour
     {
         InvokeRepeating(nameof(Spawn), spawnRate, spawnRate);
     }
-
+        
     private void Spawn()
     {
         GameObject pipe = Instantiate(prefab, transform.position, Quaternion.identity,transform);

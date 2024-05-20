@@ -1,0 +1,29 @@
+{
+    "Dino": {
+        "checkpoints": [
+            {
+                "steps": 31089,
+                "file_path": "D:\\GitHub\\AI-Class\\Chrome\\ml-agents-release_20\\results-resume\\dino\\Dino\\Dino-31089.onnx",
+                "reward": null,
+                "creation_time": 1715585919.4970644,
+                "auxillary_file_paths": [
+                    "D:\\GitHub\\AI-Class\\Chrome\\ml-agents-release_20\\results-resume\\dino\\Dino\\Dino-31089.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 31089,
+            "file_path": "D:\\GitHub\\AI-Class\\Chrome\\ml-agents-release_20\\results-resume\\dino\\Dino.onnx",
+            "reward": null,
+            "creation_time": 1715585919.4970644,
+            "auxillary_file_paths": [
+                "D:\\GitHub\\AI-Class\\Chrome\\ml-agents-release_20\\results-resume\\dino\\Dino\\Dino-31089.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

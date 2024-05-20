@@ -46,7 +46,7 @@ public class MummyILAgent : Agent
         var DiscreteActions = actions.DiscreteActions;
 
         Vector3 direction = Vector3.zero;
-        Vector3 rotationAxis = Vector3.zero;
+        Vector3 rotationAxis = Vector3.zero;    
 
         // DiscreteAction[0] = 정지(0) 전진(1) 후진(2)
         switch (DiscreteActions[0])
