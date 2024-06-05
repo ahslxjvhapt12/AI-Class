@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/00_Scenes/Dino.unity
-    guid: 610274a348b13e0409ead4f69ed35f16
+  m_Scenes: []
   m_configObjects: {}
