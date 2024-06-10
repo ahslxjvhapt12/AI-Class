@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PlaceBall.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 51d38acef7899aa4897c34b593f7f8e3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a3fa512f970c2904ea1436a4402c1621, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c00abe2b014b87b4e9b4fdd0a3357a8d, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: bdb52511eb0ab6a459a852747f035cee, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b619adc1d8c4cd44aaca33da7bf6cfaf, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e8cc153c2bf8f564b8e58b87480af3cb, type: 2}
